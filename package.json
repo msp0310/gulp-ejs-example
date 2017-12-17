@@ -1,0 +1,12 @@
+{
+  "name": "ejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "sawada makoto",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.4.0",
+    "gulp-ejs": "^3.1.0"
+  }
+}
